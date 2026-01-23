@@ -9,7 +9,9 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.newnovicechen.zhihureader.toolWindow.MyToolWindowFactory" id="MyToolWindow"/>
-        <postStartupActivity implementation="com.github.newnovicechen.zhihureader.startup.MyProjectActivity" />
+        <toolWindow
+                id="Zhihu Reader"
+                anchor="right"
+                factoryClass="com.github.newnovicechen.zhihureader.toolWindow.ZhihuToolWindowFactory"/>
     </extensions>
 </idea-plugin>
