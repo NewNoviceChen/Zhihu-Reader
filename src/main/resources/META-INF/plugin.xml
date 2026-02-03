@@ -9,6 +9,7 @@
     <resource-bundle>messages.MyBundle</resource-bundle>
 
     <extensions defaultExtensionNs="com.intellij">
+        <applicationService serviceImplementation="com.github.newnovicechen.zhihureader.toolWindow.ZhihuReaderSettings"/>
         <toolWindow
                 id="Zhihu Reader"
                 anchor="right"
