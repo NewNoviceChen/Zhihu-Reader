@@ -1,6 +1,9 @@
 # Zhihu-Reader
 
 ## 介绍
+<!-- Plugin description -->
+在JetBrains 里阅读知乎相关内容，需要先从页面获取cookie.
+<!-- Plugin description end -->
 
 在JetBrains 里阅读知乎相关内容，需要先从页面获取cookie.
 
