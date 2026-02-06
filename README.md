@@ -2,7 +2,13 @@
 
 ## 介绍
 <!-- Plugin description -->
-在JetBrains 里阅读知乎相关内容，需要先从页面获取cookie.
+To read Zhihu-related content in JetBrains, you need to first obtain the cookie from the page.
+
+There are two modes: plain text mode and HTML mode. The HTML mode can display images, but some images may have parsing errors or size issues.
+
+JetBrains 里阅读知乎相关内容，需要先从页面获取cookie。
+
+有两种模式，纯文本模式和HTML模式，html模式可以显示图片，但是有些图片会解析错误或者大小有问题。
 <!-- Plugin description end -->
 
 ### 纯文本模式
